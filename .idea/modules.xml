@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aula_4/aula_4.iml" filepath="$PROJECT_DIR$/aula_4/aula_4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula_5/aula_5.iml" filepath="$PROJECT_DIR$/aula_5/aula_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo_1.iml" filepath="$PROJECT_DIR$/modulo_1.iml" />
     </modules>
   </component>

@@ -1,7 +1,8 @@
+package aula4;
+
 import java.util.Scanner;
 
 public class JogoDaVelha {
-
     static Scanner scanner = new Scanner(System.in);
     static String [][] tabuleiro = {{"_","_","_"}
             ,{"_","_","_"}
@@ -100,4 +101,3 @@ public class JogoDaVelha {
         System.out.println("\n");
     }
 }
-

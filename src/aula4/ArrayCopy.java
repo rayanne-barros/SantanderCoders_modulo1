@@ -1,3 +1,5 @@
+package aula4;
+
 public class ArrayCopy {
     public static void main(String[] args) {
         char[] copyFrom = {'d', 'e', 'c', 'a', 'f', 'f', 'e',

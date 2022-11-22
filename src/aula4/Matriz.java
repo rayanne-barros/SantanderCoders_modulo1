@@ -1,3 +1,5 @@
+package aula4;
+
 public class Matriz {
     public static void main(String[] args) {
         int[][] matrizInteiros = {{1,2,3},{4,5,6},{7,8,9}};
