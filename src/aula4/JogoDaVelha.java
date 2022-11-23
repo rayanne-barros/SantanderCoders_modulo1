@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class JogoDaVelha {
     static Scanner scanner = new Scanner(System.in);
-    static String [][] tabuleiro = {{"_","_","_"}
+    static String [][] tabuleiro = {{"_","","_"}
             ,{"_","_","_"}
             ,{"_","_","_"}};
     public static void main(String[] args) {

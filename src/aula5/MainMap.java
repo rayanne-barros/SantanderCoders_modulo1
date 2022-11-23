@@ -17,12 +17,9 @@ public class MainMap {
         /*objeto.put("nome", "Rayanne"); // chave e valor
         objeto.put("idade", 27);*/
 
-
-
        /* final String listaFormatada = "\n \n";
 
         objeto.forEach((chave, valor) -> {listaFormatada += chave + " - " + valor + "\n";} );*/
-
 
         /*Map<String, Object> objeto = Map.of("nome", "Rayanne", "idade", 27, "nome2", "Ana");
         Integer idade = (Integer) objeto.get("idade");
@@ -31,8 +28,8 @@ public class MainMap {
         System.out.println(nome);
         System.out.println(objeto);*/
 
-
     }
+
     public static void imprimeObjeto(Map<String, Object> objeto) {
         String listaFormatada = "\n \n";
         for( Map.Entry entry : objeto.entrySet()) {
